@@ -1,0 +1,30 @@
+*{
+
+}
+form{
+    width: 30%;
+    height: auto;
+    padding: 1pc;
+    display: flex;
+    flex-direction: column;
+    margin: 40px auto;
+    box-shadow: 0 0 10px black;
+}
+input{
+    height: 1.8pc;
+    box-shadow: 0 0 1px;
+    border-radius: 4px;
+    border: 1px solid black;
+    margin-bottom: 1pc;
+}
+input[type=submit]{
+    background-color: darkblue;
+    height: 2pc;
+    height: 2pc;
+    border: none;
+    color: white;
+    font-size: 1.5pc;
+}
+label{
+    font-size: 1.5pc;
+}
